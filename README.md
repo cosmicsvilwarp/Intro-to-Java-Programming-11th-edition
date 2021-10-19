@@ -1,9 +1,9 @@
 # Intro-to-Java-Programming-and-Data-Structures-11th-edition
 
-Solutions to the exercises of Java Programming, Comprehensive Version (11th Edition) by Y. Daniel Liang
+My solutions to the exercises of Java Programming, Comprehensive Version (11th Edition) by Y. Daniel Liang
 
 
-I have found the book to be a great resource for learning the fundamentals of programming as well as algorithms and data structures. Since the solutions to these exercices are scarce on the internet and the only ones available are incomplete, I decided to share my work on the exercises. Hopefully this will help students and professionals to validate their exercise solutions and learn more about the contents of the book.
+I have found the book to be a great resource for someone who would want to learn the fundamentals of programming as well as algorithms and data structures. Since the solutions to these exercices are scarce on the internet and the only ones available are incomplete, I decided to share my work on the exercises. Hopefully this will help students and professionals to validate their exercise solutions and learn more about the contents of the book.
 
 To the best of my knowledge, these solutions are correct.
 If you find anything incorrect feel free to create an issue or to open a pull request.
